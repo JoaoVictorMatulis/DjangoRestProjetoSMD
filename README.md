@@ -9,8 +9,7 @@
 - Kevin de Sousa dos Santos - Id de aluno: 1142168549
 
 # Métodos Get e Post
-
-### - Banda : https://smd.joaomatulis.repl.co/bandGetPost/
+### - Banda : <a href="https://smd.joaomatulis.repl.co/bandGetPost/" target="_blank">smd.joaomatulis.repl.co/bandGetPost/</a>
 ### - Álbum : https://smd.joaomatulis.repl.co/albumGetPost/
 ### - Música : https://smd.joaomatulis.repl.co/musicaGetPost/
 ### - Membros : https://smd.joaomatulis.repl.co/memberGetPost/
