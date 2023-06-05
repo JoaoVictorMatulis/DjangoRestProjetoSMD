@@ -21,3 +21,7 @@
 ### - Álbum : https://smd.joaomatulis.repl.co/albumDeleteUpdate/
 ### - Música : https://smd.joaomatulis.repl.co/musicaDeleteUpdate/
 ### - Membros : https://smd.joaomatulis.repl.co/memberDeleteUpdate/
+
+# Como fazer alguma implementação no banco de dados? (Fazer algum método mostrado acima)
+Primeiro é necessário registrar no banco de dados uma Banda, usando o método post usando o link: https://smd.joaomatulis.repl.co/bandGetPost/<br />
+Exemplo:
