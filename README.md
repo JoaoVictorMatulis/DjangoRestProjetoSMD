@@ -24,4 +24,5 @@
 
 # Como fazer alguma implementação no banco de dados? (Fazer algum método mostrado acima)
 Primeiro é necessário registrar no banco de dados uma Banda, usando o método post usando o link: https://smd.joaomatulis.repl.co/bandGetPost/<br />
-Exemplo:
+Exemplo:<br />
+![Página cadastro banda](./Imagens/TelaPostBand.PNG)
