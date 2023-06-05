@@ -22,6 +22,19 @@
 ### - Membros : https://smd.joaomatulis.repl.co/memberDeleteUpdate/
 
 # Como fazer alguma implementação no banco de dados? (Fazer algum método mostrado acima)
-Primeiro é necessário registrar no banco de dados uma Banda, usando<br /> o método post usando o link: https://smd.joaomatulis.repl.co/bandGetPost/<br />
+Primeiro é necessário registrar no banco de dados uma Banda, usando<br />
+o método post usando o link: https://smd.joaomatulis.repl.co/bandGetPost/<br />
 Exemplo:<br />
-![Página cadastro banda](./Imagens/TelaPostBand.PNG)
+![Página cadastro banda](./Imagens/TelaPostBand.png)
+<br />
+<br />
+Se tudo estiver ocorrido como esperado você verá essa tela:<br />
+<br />
+![Página banda cadastrada](./Imagens/TelaPostBandInserido.png)<br />
+<br />
+Exibindo o nome da banda que acabou de ser cadastrada e seu id
+<br />
+Caso queira ver todas as bandas cadastradas clique no botão GET mostrado na foto abaixo:
+<br />
+
+<br />
