@@ -9,7 +9,7 @@
 - Kevin de Sousa dos Santos - Id de aluno: 1142168549
 
 # Métodos Get e Post
-### - Banda : [teste](https://smd.joaomatulis.repl.co/bandGetPost/)
+### - Banda : https://smd.joaomatulis.repl.co/bandGetPost/
 ### - Álbum : https://smd.joaomatulis.repl.co/albumGetPost/
 ### - Música : https://smd.joaomatulis.repl.co/musicaGetPost/
 ### - Membros : https://smd.joaomatulis.repl.co/memberGetPost/
@@ -22,6 +22,6 @@
 ### - Membros : https://smd.joaomatulis.repl.co/memberDeleteUpdate/
 
 # Como fazer alguma implementação no banco de dados? (Fazer algum método mostrado acima)
-Primeiro é necessário registrar no banco de dados uma Banda, usando o método post usando o link: https://smd.joaomatulis.repl.co/bandGetPost/<br />
+Primeiro é necessário registrar no banco de dados uma Banda, usando<br /> o método post usando o link: https://smd.joaomatulis.repl.co/bandGetPost/<br />
 Exemplo:<br />
 ![Página cadastro banda](./Imagens/TelaPostBand.PNG)
